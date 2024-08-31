@@ -83,5 +83,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, please reach out to [raghavsharma0257@gmail.com](mailto:raghavsharma0257@gmail.com).
 ```
-
-You can save this content in a file named `README.md` in your project directory.
