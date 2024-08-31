@@ -1,0 +1,112 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+*.log.*
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Production
+/build
+/.next
+/out
+/dist
+/.vercel
+/.vercel_build_output
+.vercel
+
+# Next.js
+.next/
+out/
+build/
+
+# Vercel
+.vercel/
+
+# Testing
+coverage/
+.nyc_output/
+.vscode/
+.idea/
+.vscode/*
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/jsconfig.json
+.vscode/extensions.json
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+.env.*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# IntelliJ
+*.iml
+.idea/
+
+# Package lock files
+package-lock.json
+yarn.lock
+
+# Editor directories and files
+/.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Next.js Typescript build output
+*.tsbuildinfo
+
+# Coverage directory used by testing tools
+coverage/
+
+# Build directory
+/build/
+
+# Temporary files
+*.temp
+*.tmp
+
+# Errors
+npm-debug.log
+yarn-error.log
+lerna-debug.log
+
+# Ignore .next cache
+.next/cache
+
+# Ignore generated API documentation files
+*.swagger*
+
+# Ignore generated Prisma client files
+/prisma/generated/
+
+# Redis
+dump.rdb
+redis.conf
+*.aof
